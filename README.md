@@ -1,5 +1,6 @@
-# microdot
-[![Build status](https://github.com/miguelgrinberg/microdot/workflows/build/badge.svg)](https://github.com/miguelgrinberg/microdot/actions) [![codecov](https://codecov.io/gh/miguelgrinberg/microdot/branch/main/graph/badge.svg)](https://codecov.io/gh/miguelgrinberg/microdot)
+# Microdot
+
+[![tests](https://code.miguelgrinberg.com/miguelgrinberg/microdot/badges/workflows/tests.yml/badge.svg)](https://code.miguelgrinberg.com/miguelgrinberg/microdot/actions)
 
 *“The impossibly small web framework for Python and MicroPython”*
 
@@ -21,14 +22,16 @@ app.run()
 
 ## Resources
 
-- [Change Log](https://github.com/miguelgrinberg/microdot/blob/main/CHANGES.md)
-- Documentation
-    - [Latest](https://microdot.readthedocs.io/en/latest/)
-    - [Stable (v2)](https://microdot.readthedocs.io/en/stable/)
+- [git](https://code.miguelgrinberg.com/miguelgrinberg/microdot)
+- [Change Log](https://code.miguelgrinberg.com/miguelgrinberg/microdot/src/branch/main/CHANGES.md)
+- [Documentation](https://microdot.readthedocs.io/)
+- [PyPI](https://pypi.python.org/pypi/microdot)
+- [Contributor's guide](CONTRIBUTING.md)
+- [Security policy](SECURITY.md)
 
-The following links are for version 1 of Microdot:
+The following links are for legacy version 1 of Microdot:
 
-- [Code](https://github.com/miguelgrinberg/microdot/tree/v1)
+- [git](https://github.com/miguelgrinberg/microdot/tree/v1)
 - [Documentation](https://microdot.readthedocs.io/en/v1/)
 
 Note that version 1 is no longer maintained, so you should consider migrating
@@ -49,3 +52,16 @@ MicroPython and CPython:
 - OpenAPI integration, similar to [APIFairy](https://github.com/miguelgrinberg/apifairy) for Flask
 
 Do you have other ideas to propose? Let's [discuss them](https://github.com/:miguelgrinberg/microdot/discussions/new?category=ideas)!
+
+Sponsor this project
+--------------------
+
+This project relies on contributions from its users. If you benefit from it please consider making a single or ongoing monetary contribution in one of the following platforms:
+
+- [Github Sponsors](https://github.com/sponsors/miguelgrinberg)
+- [Patreon](https://patreon.com/miguelgrinberg)
+- [Buy me a Coffee](https://buymeacoffee.com/miguelgrinberg)
+- [thanks.dev](https://thanks.dev/u/gh/miguelgrinberg)
+- [PayPal](https://paypal.me/miguelgrinberg)
+
+Thank you!
